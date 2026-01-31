@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+body {
+  font-family: Arial, sans-serif;
+  background-color: #222121;
+  color: #ffffff;
+}
+img {
+  width: 150px;
+  height: 150px;
+  margin-right: 20px;
+  object-fit: cover;
+}
